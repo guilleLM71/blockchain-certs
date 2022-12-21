@@ -1,0 +1,71 @@
+.cert {
+  height: 85vh;
+  background: url("cert.png") no-repeat;
+  background-size: cover;
+  margin-left: 150px;
+}
+
+#nombre {
+  
+  font-size: 23px;
+
+}
+
+#paterno {
+  font-size: 23px;
+
+}
+
+
+#materno {
+  font-size: 23px;
+
+}
+
+#titulocurso {
+  font-size: 23px;
+
+  font-weight: bold;
+}
+
+#txh {
+  font-size: 23px;
+}
+
+#id {
+  font-size: 23px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+
+#institucion {
+  font-size: 55px;
+}
+
+
+#tituloprof{
+  font-size: 23px;
+  
+}
+
+#grado{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#ci{
+  font-size: 23px;
+
+}
+#direccionemisor{
+  font-size: 23px;
+ 
+}
+
+#fechaemision{
+  font-size: 23px;
+
+}
